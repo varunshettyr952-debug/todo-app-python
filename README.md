@@ -1,2 +1,12 @@
-# todo-app-python
-It is type of that add task and mark it done if the task is completed, delete the task if it is not needed.
+To-Do List App (Python Tkinter)
+
+Features:
+- Add tasks
+- Delete tasks
+- Mark tasks as done
+- Saves data using JSON
+
+Technologies:
+- Python
+- Tkinter
+- JSON
